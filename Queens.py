@@ -1,18 +1,4 @@
-#  File: Queens.py
-
-#  Description: Use backtracking and recursion to produce the # of eight-queen solutions for an nxn board.
-
 #  Student Name: Marissa Green
-
-#  Student UT EID: mdg3554
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50725
-
-#  Date Created: 3/29/19
-
-#  Date Last Modified: 4/1/19
 
 class Queens (object):
   # initialize the board
